@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/nicos02/Carousel-HTML-CSS/assets/135131275/eb48fcb0-eabf-4e67-8e93-ad5369d2fea2" alt="Carrousel (Petite)">
+</p>
+
 # Carrousel en HTML/CSS
 
 Ce projet est un exemple de création d'un carrousel en utilisant du code HTML et CSS. Le carrousel permet de faire défiler des images ou du contenu de manière automatique ou manuelle.
